@@ -20,7 +20,7 @@ dependencies:
   path_provider: ^2.0.1
   path: ^1.8.0
   connectivity_plus: ^5.0.0
-  hive: ^4.0.0-dev.2
+  hive: ^3.0.0-dev
   plugin_platform_interface: ^2.0.0
   flutter_hooks: '>=0.18.2 <0.21.0'
 
